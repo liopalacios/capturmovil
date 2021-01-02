@@ -4,7 +4,7 @@ const DINAMIC_CACHE = "dinamic-v1"
 const INMUTABLE_CACHE = "inmutable-v1"
 
 const APP_SCHELL = [
-    '/',    
+    //'/',    
     'css/style.css',
     'img/avatars/hulk.jpg',
     'img/favicon.ico',
